@@ -135,7 +135,6 @@
 .card-link {
     height: 100%;
     text-decoration: none;
-    text-decoration-color: rgba(255, 255, 255, 1);
 }
 
 .card {
@@ -246,7 +245,7 @@
     text-transform: lowercase;
     font-size: 18px;
     text-underline-offset: 4px;
-    line-height: 100%;
+    line-height: 1.1;
 }
 
 .footer__social-list {
